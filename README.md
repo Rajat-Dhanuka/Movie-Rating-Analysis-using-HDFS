@@ -1,4 +1,4 @@
-# Movie-Rating-Analysis-using-HDFS
+# Movie Rating Analysis using HDFS
 
 This project aims to analyze movie review ratings data using a Hadoop MapReduce solution. The analysis identifies the film(s) with the highest average rating for each year within a specified range of years and across all years, based on the ratings provided by a group of reviewers.
 
